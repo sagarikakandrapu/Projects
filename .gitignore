@@ -1,6 +1,0 @@
-*.sqlite
-*.db
-*.log
-*sqlite-shm
-*sqlite-wal
-*sqlite-journal
